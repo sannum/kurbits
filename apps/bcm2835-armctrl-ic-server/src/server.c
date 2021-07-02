@@ -5,4 +5,5 @@
 
 void server() {
   printf("Hello server!\n");
+  while(1);
 }
